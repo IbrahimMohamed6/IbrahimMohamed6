@@ -1,53 +1,67 @@
-## Hey 👋, I'm Ibrahim Mohamed Ibrahim!
+[![](https://raw.githubusercontent.com/adamalston/adamalston/master/profile.gif)](https://github.com/IbrahimMohamed6)
 
-<a href='https://www.linkedin.com/in/ibrahim-mohamed123/'><img align='left' alt="linkedin" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/linkedin.svg" height='18px'/></a>
-<a href='https://github.com/IbrahimMohamed6'><img align='left' alt="github" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height='18px'/></a>
-
-<br/>
-
-🎯 **Back-End Developer | ASP.NET Core | Clean Architecture Enthusiast**
+## 👋 Hey, I'm Ibrahim Mohamed Ibrahim  
+🎯 ASP.NET Core Back-End Developer | Clean Architecture Enthusiast | C# Lover
 
 ---
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
+### 🧠 About Me
 
-### 🧠 About Me:
-
-- 👨‍💻 I'm a passionate back-end developer specialized in ASP.NET Core & C#.
-- 🧱 I build scalable REST APIs with clean architecture & solid principles.
-- 🚀 I work with technologies like EF Core, LINQ, SQL Server, Docker & JWT.
-- 📚 Currently learning advanced Microservices & Cloud Integrations.
-- 📫 Reach me at: ibrahimmohamedibrahimtawfik@gmail.com
+I'm a passionate and detail-oriented .NET Core Developer specialized in building scalable, maintainable, and secure APIs using ASP.NET Core.  
+I work with clean architecture, 3-tier solutions, EF Core, JWT Authentication, and modern tools like Docker and Redis.
 
 ---
 
-### 🛠️ Languages and Tools:
+### 🛠️ Languages
 
-<a href="https://dotnet.microsoft.com/en-us/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="42px" /></a>
-<a href="https://learn.microsoft.com/en-us/aspnet/core/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="42px" /></a>
-<a href="https://www.microsoft.com/en-us/sql-server/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="42px"/></a>
-<a href="https://git-scm.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="42px"/></a>
-<a href="https://github.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="42px"/></a>
-<a href="https://www.docker.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="42px"/></a>
-<a href="https://getbootstrap.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="42px"/></a>
+![C#](https://img.shields.io/badge/-C%23-000?&logo=csharp)
+![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
+![HTML](https://img.shields.io/badge/-HTML5-000?&logo=html5)
+![CSS](https://img.shields.io/badge/-CSS3-000?&logo=css3)
 
 ---
 
-### 📌 My Projects
+### ⚙️ Technologies & Tools
 
-- 🔹 [Souq.API](https://github.com/IbrahimMohamed6/Souq.Api): Full CRUD ASP.NET Core MVC App  
-- 🔹 [Store.API](https://github.com/IbrahimMohamed6/Store_Api.git): E-Commerce Web API with user/shop/product modules  
-- 🔹 [EduLink.API](https://github.com/IbrahimMohamed6/EduLink.Api.Solution): API for student & university management with JWT & 3-tier arch  
+![ASP.NET Core](https://img.shields.io/badge/-ASP.NET%20Core-000?&logo=.net)
+![Entity Framework Core](https://img.shields.io/badge/-EF%20Core-000?&logo=.net)
+![LINQ](https://img.shields.io/badge/-LINQ-000?&logo=.net)
+![JWT](https://img.shields.io/badge/-JWT-000?&logo=jsonwebtokens)
+![Git](https://img.shields.io/badge/-Git-000?&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=github)
+![Docker](https://img.shields.io/badge/-Docker-000?&logo=docker)
+![Redis](https://img.shields.io/badge/-Redis-000?&logo=redis)
+![SignalR](https://img.shields.io/badge/-SignalR-000?&logo=dotnet)
+![Postman](https://img.shields.io/badge/-Postman-000?&logo=postman)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?&logo=bootstrap)
+![Agile](https://img.shields.io/badge/-Agile-000?&logo=scrumalliance)
+
+---
+
+### 🚀 Projects
+
+[![](https://img.shields.io/badge/-🛒%20Souq.API-000)](https://github.com/IbrahimMohamed6/Souq.Api)  
+CRUD web app built with ASP.NET Core MVC.
+
+[![](https://img.shields.io/badge/-🛍%20Store.API-000)](https://github.com/IbrahimMohamed6/Store_Api.git)  
+E-Commerce API with cart, checkout, and product management.
+
+[![](https://img.shields.io/badge/-🎓%20EduLink.API-000)](https://github.com/IbrahimMohamed6/EduLink.Api.Solution)  
+Educational system API with students, faculties, and JWT authentication.
 
 ---
 
 ### 📈 GitHub Stats
 
-<p align="left">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=IbrahimMohamed6&show_icons=true&theme=default" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IbrahimMohamed6&layout=compact" />
-</p>
+<a href="https://github.com/IbrahimMohamed6">
+  <img height="137px" src="https://github-readme-stats.vercel.app/api?username=IbrahimMohamed6&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=graywhite" />
+  <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IbrahimMohamed6&hide_title=true&hide_border=true&layout=compact&langs_count=6&theme=graywhite" />
+</a>
 
 ---
 
-> 💬 “Code is like humor. When you have to explain it, it’s bad.” – Cory House
+### 📬 Contact Me
+
+- 📧 Email: [ibrahimmohamedibrahimtawfik@gmail.com](mailto:ibrahimmohamedibrahimtawfik@gmail.com)
+- 🔗 LinkedIn: [linkedin.com/in/ibrahim-mohamed123](https://linkedin.com/in/ibrahim-mohamed123)
+- 💻 GitHub: [github.com/IbrahimMohamed6](https://github.com/IbrahimMohamed6)
